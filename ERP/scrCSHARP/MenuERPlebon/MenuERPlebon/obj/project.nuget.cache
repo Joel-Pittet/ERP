@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r66R2U6LsIza1lLjSg6MtsxLFHvCo1S/MtGTbq8/iXCQm2pGn6hDdHpko71kMHvBYtNlciZ4TtvNuEx/fKaMmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ph06ilj\\ERP\\scrCSHARP\\MenuERPlebon\\MenuERPlebon\\MenuERPlebon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ph06ilj\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
+    "C:\\Users\\ph06ilj\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\ph06ilj\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

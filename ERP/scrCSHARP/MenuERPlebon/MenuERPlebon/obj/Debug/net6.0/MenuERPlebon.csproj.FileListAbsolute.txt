@@ -1,0 +1,17 @@
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\obj\Debug\net6.0\MenuERPlebon.csproj.AssemblyReference.cache
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\obj\Debug\net6.0\MenuERPlebon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\obj\Debug\net6.0\MenuERPlebon.AssemblyInfoInputs.cache
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\obj\Debug\net6.0\MenuERPlebon.AssemblyInfo.cs
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\obj\Debug\net6.0\MenuERPlebon.csproj.CoreCompileInputs.cache
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\bin\Debug\net6.0\MenuERPlebon.exe
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\bin\Debug\net6.0\MenuERPlebon.deps.json
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\bin\Debug\net6.0\MenuERPlebon.runtimeconfig.json
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\bin\Debug\net6.0\MenuERPlebon.dll
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\bin\Debug\net6.0\MenuERPlebon.pdb
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\obj\Debug\net6.0\MenuERPlebon.dll
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\obj\Debug\net6.0\refint\MenuERPlebon.dll
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\obj\Debug\net6.0\MenuERPlebon.pdb
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\obj\Debug\net6.0\MenuERPlebon.genruntimeconfig.cache
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\obj\Debug\net6.0\ref\MenuERPlebon.dll
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ph06ilj\ERP\scrCSHARP\MenuERPlebon\MenuERPlebon\obj\Debug\net6.0\MenuERPlebon.csproj.CopyComplete
